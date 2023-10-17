@@ -1,0 +1,6 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+timeCalculator/__pycache__/test_module.cpython-311-pytest-7.4.2.pyc
